@@ -1,6 +1,8 @@
 #!/bin/bash
 #Tool to scan exported Firefox bookmarks in order to check dead links
-#Seboss666, GPLv3
+#Author: Seboss666
+#Website : https://blog.seboss666.info
+#Licence : WTFPL
 
 if [ ! -f bookmarks.html ]; then
 	echo -ne "Run this script in the same folder as your bookmarks.html file.\n"

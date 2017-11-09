@@ -1,4 +1,8 @@
 #!/bin/bash
+#little snippet to convert raw .wav files into FLAC 24bit lossless files
+#Author: Seboss666
+#Website : https://blog.seboss666.info
+#Licence : WTFPL
 
 for FILE in *.wav;
 do

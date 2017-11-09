@@ -1,6 +1,9 @@
 #!/bin/bash
 #Script to convert NRG disk image (Nero) to standard ISO image
 #Either by using nrg2iso or dd
+#Author: Seboss666
+#Website : https://blog.seboss666.info
+#Licence : WTFPL
 
 usage() {
 	echo -ne "Usage :\n"
